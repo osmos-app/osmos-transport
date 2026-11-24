@@ -1,0 +1,10 @@
+[package]
+name = "osmos-transport"
+version = "0.0.0"
+edition = "2021"
+license = "MIT"
+description = "Peer-to-peer sync between a user's own devices over QUIC, with no server in between"
+repository = "https://github.com/Osmos-App/osmos-transport"
+publish = false
+
+[dependencies]
