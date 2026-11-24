@@ -1,5 +1,7 @@
 # osmos-transport
 
+English · [Türkçe](./README.tr.md)
+
 Peer-to-peer sync between your own devices, with no server in between.
 
 > **Not started.** This repository holds the plan; the protocol comes first, then the code.
